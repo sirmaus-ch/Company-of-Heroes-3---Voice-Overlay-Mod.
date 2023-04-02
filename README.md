@@ -18,14 +18,15 @@ Wie funktionierts? / Voraussetzungen:
 
 
 Neuste Version: 
-Version: 0.0.1 ALPHA (02.04.2023) 
+Version: 0.0.1 alpha (02.04.2023) 
 Dieser Mod ist sehr experimentell und in sehr früher Entwicklungsphase! Benutzung auf eigene Gefahr!
 Viele Funktionen / Audio Meldungen fehlen noch. 
 
 DOWNLOAD LINK: https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v001.zip
+
 Mirror: https://www.mediafire.com/file/anjhhmea96dx9rp/COH3_Audio_Overlay_Mod_v001.zip/file
 
-
+Video: (v.0.0.1 alpha) https://youtu.be/koBv9voN7cA
 
 Was funktioniert bereits?
 Gewisse Truppen können bereits ein wenig Deutsch sprechen. Es sind noch nicht 100% passende Sprüche und auch noch viel zu wenig verschiedene Sprüche. Die aktuellen Sprüche sind lediglich zum Testen / Weiterentwicklung provisorisch integriert worden! 
