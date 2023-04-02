@@ -36,7 +36,7 @@ sound_index.txt (für fahrzeuge)
 sound_index_troops.txt (für fussvolk)
 
 funktionierende Fahrzeuge:
-Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer
+- Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer
 
 funktionierendes Fussvolk:
 - Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze
