@@ -1,37 +1,6 @@
 # Company-of-Heroes-3---Voice-Overlay-Mod.
 German Voices / Deutsche Stimmen
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@sirmaus-ch 
-sirmaus-ch
-/
-Company-of-Heroes-3---Voice-Overlay-Mod.
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Company-of-Heroes-3---Voice-Overlay-Mod./Informationen
-@sirmaus-ch
-sirmaus-ch Update Informationen
-Latest commit c729b20 1 minute ago
- History
- 1 contributor
-42 lines (28 sloc)  2.14 KB
-
 Dieser Mod legt komplett neue Stimmen über Comapany of Hereoes. 
 Der Mod ist experimentell und noch in einer früher Alpha phase. 
 
@@ -74,18 +43,3 @@ Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen
 
 Bekannte Fehler / Fehlende Funktionen:
 - Zuviele zum auflisten...
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Company-of-Heroes-3---Voice-Overlay-Mod./Informationen at main · sirmaus-ch/Company-of-Heroes-3---Voice-Overlay-Mod.
