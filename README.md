@@ -15,6 +15,7 @@ Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu l
 - Die Lautstärke der deutschen Mod Stimmen kann über den Windows Lautstärkemixer verändert werden. 
 
 ---
+
 **Neuste Version:** 
 Version: 0.0.1 alpha (02.04.2023) 
 Dieser Mod ist sehr experimentell und in sehr früher Entwicklungsphase! Benutzung auf eigene Gefahr!
@@ -23,7 +24,9 @@ Viele Funktionen / Audio Meldungen fehlen noch.
 **DOWNLOAD** https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v001.zip
 
 **Mirror:** https://www.mediafire.com/file/anjhhmea96dx9rp/COH3_Audio_Overlay_Mod_v001.zip/file
+
 ---
+
 **Youtube:**
 https://youtu.be/koBv9voN7cA (v.0.0.1 alpha) 
 
