@@ -55,5 +55,3 @@ Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen
 Relic hat es anscheinend nicht nur für unnötig gehalten richtige Deutsche Stimmen ins Spiel zu integrieren. Sie blockieren sogar ganz bewusst das Austauschen der Sounddatenbanken. (Modifiziert man die Originalen Datenbanken mit Coh1 oder Coh2 Stimmen, auch wenn man die Sounddateien aufs gleiche Format umgewandelt werden und anschliessend wieder gepackt werden, so  löscht das Spiel bein starten die Modifizierten Dateien. 
 (Falls hier jemand eine Lösung weiss, bitte unbedingt melden, es wäre natürlich um Welten besser die Sounddateien modifzieren zu können).
 
-Als wäre das nicht schon genug... werden nun meine Posts / Links von diesem Audio Overlay Mod bei Steam gelöscht oder blockiert. Emm jaaa.. :( ...
-
