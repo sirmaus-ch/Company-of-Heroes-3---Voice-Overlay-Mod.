@@ -7,14 +7,12 @@ Ein Mod der hoffentlich nur kurzfristig exisitieren wird. In der Hoffnung das ri
 Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu lassen. 
 
 
-
 **Wie funktionierts? / Voraussetzungen:**
 - Monitor und Spielauflösung müssen auf 1920x1080p sein!
 - Das Ingame Spielmenu muss original sein und darf nicht durch andere Mods verändert werden.
 - Die originalen InGame Stimmen müssen über "Einstellungen->Audio" deaktiviert werden (auf 0% stellen).
 - Die Mod-Application .exe muss im Hintergrund laufen und die Audio Overlay funktion muss aktiviert sein.
 - Die Lautstärke der deutschen Mod Stimmen kann über den Windows Lautstärkemixer verändert werden. 
-
 
 
 **Neuste Version:** 
@@ -24,6 +22,7 @@ Viele Funktionen / Audio Meldungen fehlen noch.
 
 **DOWNLOAD**
 Link: https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v001.zip
+
 Mirror: https://www.mediafire.com/file/anjhhmea96dx9rp/COH3_Audio_Overlay_Mod_v001.zip/file
 
 **Video: **
@@ -38,12 +37,12 @@ sound_index.txt (für fahrzeuge)
 sound_index_troops.txt (für fussvolk)
 
 **funktionierende Fahrzeuge:**
-- Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer
+Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer
 
 **funktionierendes Fussvolk:**
-- Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze
+Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze
 
 Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen folgen. 
 
 **Bekannte Fehler / Fehlende Funktionen:**
-- Zuviele zum auflisten...
+Zuviele zum auflisten...
