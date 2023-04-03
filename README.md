@@ -25,7 +25,7 @@ Link: https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v001.zip
 
 Mirror: https://www.mediafire.com/file/anjhhmea96dx9rp/COH3_Audio_Overlay_Mod_v001.zip/file
 
-**Video: **
+**Video:**
 https://youtu.be/koBv9voN7cA (v.0.0.1 alpha) 
 
 **Was funktioniert bereits?**
