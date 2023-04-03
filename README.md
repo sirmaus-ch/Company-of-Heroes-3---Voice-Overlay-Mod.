@@ -45,12 +45,15 @@ Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstr
 Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen folgen. 
 
 **Bekannte Fehler / Fehlende Funktionen:**
-Zuviele zum auflisten...
+- Es benötigt im Moment mindestens 1 Fussvolk Trupp damit dit die Fahrzeuge sprechen. 
+- Die Sprüche sind noch falsch / nicht optimal zugeordnet. 
+- Hohe CPU Auslustung (je nach Prozessor) --> Temporäre Lösung: Refresh Raten in der Mod.exe erhöhen.
+- Motorschaden wird gemeldet aber nur beim 1. Schaden aller aktuellen Truppen. sobald der Schaden repariert oder das Fahrzeug zerstört ist, gibt es wieder eine Meldung aus für den nächsten "1. Motorenschaden". 
 
 
 **Warum dieser ganzer Aufwand? Warum so kompliziert?**
 Relic hat es anscheinend nicht nur für unnötig gehalten richtige Deutsche Stimmen ins Spiel zu integrieren. Sie blockieren sogar ganz bewusst das Austauschen der Sounddatenbanken. (Modifiziert man die Originalen Datenbanken mit Coh1 oder Coh2 Stimmen, auch wenn man die Sounddateien aufs gleiche Format umgewandelt werden und anschliessend wieder gepackt werden, so  löscht das Spiel bein starten die Modifizierten Dateien. 
 (Falls hier jemand eine Lösung weiss, bitte unbedingt melden, es wäre natürlich um Welten besser die Sounddateien modifzieren zu können).
 
-Als wäre das nicht schon genug... werden nun meine Posts / Links von diesem Audio Overlay Mod bei Steam gelöscht oder blockiert.
+Als wäre das nicht schon genug... werden nun meine Posts / Links von diesem Audio Overlay Mod bei Steam gelöscht oder blockiert. Emm jaaa.. :( ...
 
