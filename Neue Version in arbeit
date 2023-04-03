@@ -10,9 +10,9 @@ Release Datum: noch unbekannt
 
 **Änderunngen/Korrekturen**
 - Der Positionswechsel und Angriffbefehl von Truppen wird nun wesentlich zuverlässiger erkannt. 
-- Diverse Performace optimierungen.
+- Diverse Performace / Code optimierungen.
 - Ein Fehler wurde behoben dass der gleiche Spruch direkt 2x hintereinander abgespielt werden konnte. 
-- Motorschaden zb durch Minen wird erkannt und gibt eine Audio Meldung. (sofern es der erste Motorschaden aus den aktuellen eigenen Trupps ist, beim2. und3. gibt es keine Meldung mehr).
-- Die Einstellung für die Aktualisierungsgeschwindigkeit hat nun wesentlich mehr Einfluss auf Leistung / Latenz / CPU ausnutzung. 
-- Ein Fehler wurde korrigiert: neu markierte Truppen haben nicht immer gesprochen. 
+- Motorschaden zb durch Minen wird erkannt und gibt eine Audio Meldung.
+- Die Einstellung für die Aktualisierungsgeschwindigkeit (Aktualisierungspause) hat nun wesentlich mehr Einfluss auf Leistung / Latenz / CPU Ausnutzung. 
+- Ein Fehler wurde korrigiert: neu markierte Truppen haben nicht immer gesprochen.
 - Ein Fehler wurde korrigiert das Truppen in einer Gruppierung nicht immer gesprochen haben. 
