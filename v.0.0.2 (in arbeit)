@@ -15,7 +15,8 @@ Release Datum: noch unbekannt
 - Motorschaden zb durch Minen wird erkannt und gibt eine Audio Meldung.
 - Die Einstellung für die Aktualisierungsgeschwindigkeit (Aktualisierungspause) hat nun wesentlich mehr Einfluss auf Leistung / Latenz / CPU Ausnutzung. 
 - Ein Fehler wurde korrigiert: neu markierte Truppen haben nicht immer gesprochen.
-- Ein Fehler wurde korrigiert das Truppen in einer Gruppierung nicht immer gesprochen haben. 
+- Ein Fehler wurde korrigiert das Truppen in einer Gruppierung nicht immer gesprochen haben.
+- Speicherleck im Hauptthred behoben. (canvas)
 ---
 ** Sprüche / Voices**
 - Pioniere. Pioniere sind ersten Truppen die korrekte / passenden Sprüche bringen.
