@@ -1,6 +1,6 @@
 Changelog
-version: 0.0.2 (in arbeit)
-Release Datum: noch unbekannt
+version: 0.0.2
+Release Datum: 06.04.2023
 ---
 **Neue Funktionen**
 - Es wird nun teilweise erkannt, ob ein Trupp die Position wechselt, oder ob ein Trupp einen Angriff (roter angriff) auf gegnerische Truppen startet. 
