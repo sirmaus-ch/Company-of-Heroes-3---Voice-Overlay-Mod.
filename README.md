@@ -25,7 +25,7 @@ Viele Funktionen / Audio Meldungen fehlen noch.
 
 **Mirror:** https://www.mediafire.com/file/st407n8hywz3485/COH3_Audio_Overlay_Mod_v002.zip/file
 
-**Youtube:** https://youtu.be/koBv9voN7cA (v.0.0.1 alpha) 
+**Youtube:** https://youtu.be/koBv9voN7cA (v.0.0.1) 
 
 ---
 
