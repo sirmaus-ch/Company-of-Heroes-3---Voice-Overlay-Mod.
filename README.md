@@ -37,10 +37,10 @@ sound_index_troops.txt für fussvolk)
 Die Zahlen bestimmen Start und Stop Position im SoundFile. Das SoundFile kann in der Mod.exe mit den Start und Stop Zahlen aus dem txt File abgespielt werden.
 
 **funktionierende Fahrzeuge:**
-Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer
+Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer, Panzerspähwagen221, StugIII Langrohr, Stug III kurzrohr, 2.5 Tonnen Versorgungs Truck, Afrika MarderIII, Afrika Panzer III-L
 
 **funktionierendes Fussvolk:**
-Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze, FallschirmPionier
+Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze, FallschirmPionier, Logistikoffiziersgefolge, Fallschirmpionier, Fallschirmscharfschütze, PanzerPioniere, Afrika-Sturmgrenadiere
 
 Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen folgen. 
 
