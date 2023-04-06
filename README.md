@@ -30,7 +30,7 @@ Dieser Mod ist sehr experimentell und in früher Entwicklungsphase! (Einige Fukt
 
 **Was funktioniert bereits?**
 Was funktioniert bereits?
-Gewisse Truppen können bereits ein wenig Deutsch sprechen. Die Anzahl und Variationen an Sprüchen könnte / wird noch massiv ausgebaut.
+Gewisse Truppen können bereits Deutsch sprechen. Die Anzahl und Variationen an Sprüchen könnte / wird noch massiv ausgebaut.
 
 Die Sprüche können bereits angepasst werden mit bearbeiten von zwei Text dateien (sound_index.txt für fahrzeuge)
 sound_index_troops.txt für fussvolk)
