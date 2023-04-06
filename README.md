@@ -30,24 +30,24 @@ Viele Funktionen / Audio Meldungen fehlen noch.
 ---
 
 **Was funktioniert bereits?**
-Gewisse Truppen können bereits ein wenig Deutsch sprechen. Es sind noch nicht 100% passende Sprüche und auch noch viel zu wenig verschiedene Sprüche. Die aktuellen Sprüche sind lediglich zum Testen / Weiterentwicklung provisorisch integriert worden! 
-Grundsätzlich können die Sprüche bereits angepasst werden! Die Zahlen bestimmen Start und Stop Position im SoundFile. Das SoundFile kann in der Mod Application abgespielt werden. 
+Was funktioniert bereits?
+Gewisse Truppen können bereits ein wenig Deutsch sprechen. Die Anzahl und Variationen an Sprüchen könnte / wird noch massiv ausgebaut.
 
-sound_index.txt (für fahrzeuge)
-sound_index_troops.txt (für fussvolk)
+Die Sprüche können bereits angepasst werden mit bearbeiten von zwei Text dateien (sound_index.txt für fahrzeuge)
+sound_index_troops.txt für fussvolk)
+Die Zahlen bestimmen Start und Stop Position im SoundFile. Das SoundFile kann in der Mod.exe mit den Start und Stop Zahlen aus dem txt File abgespielt werden.
 
 **funktionierende Fahrzeuge:**
 Kettenrad, 8Rad Panzer, Schuetzenpanzer 251, Panzer IV, Panther, Tiger, Marder III, Flak Panzer
 
 **funktionierendes Fussvolk:**
-Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze
+Pioniere, MGTrupp, Grenadiere, PzGrenadiere, Jägertrupp,Falschirmjäger,Stosstrupp, Scharfschuetze, FallschirmPionier
 
 Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen folgen. 
 
 **Bekannte Fehler / Fehlende Funktionen:**
 - Es benötigt im Moment mindestens 1 Fussvolk Trupp damit dit die Fahrzeuge sprechen. 
-- Die Sprüche sind noch falsch / nicht optimal zugeordnet. 
-- Hohe CPU Auslustung (je nach Prozessor) --> Temporäre Lösung: Refresh Raten in der Mod.exe erhöhen.
+- Hohe CPU Auslustung (je nach Prozessor) --> Lösung: Refresh Raten in der Mod.exe erhöhen.
 - Motorschaden wird gemeldet aber nur beim 1. Schaden aller aktuellen Truppen. sobald der Schaden repariert oder das Fahrzeug zerstört ist, gibt es wieder eine Meldung aus für den nächsten "1. Motorenschaden". 
 
 
