@@ -3,9 +3,8 @@ version: 0.0.2 (in arbeit)
 Release Datum: noch unbekannt
 ---
 **Neue Funktionen**
-- Es wird nun erkannt, ob ein Trupp die Position wechselt, oder ob ein Trupp einen Angriff (roter angriff) auf gegnerische Truppen startet. 
+- Es wird nun teilweise erkannt, ob ein Trupp die Position wechselt, oder ob ein Trupp einen Angriff (roter angriff) auf gegnerische Truppen startet. 
   Dadurch können die SoundSpüche passender zugeordnet werdern.
-- Es wird nun erkannt wenn ein Fussvolk Trupp gebaut (fertiggestellt) wurde und gibt eine Audio Meldung.
 ---
 **Änderunngen/Korrekturen**
 - Der Positionswechsel und Angriffbefehl von Truppen wird nun wesentlich zuverlässiger erkannt. 
@@ -15,7 +14,7 @@ Release Datum: noch unbekannt
 - Die Einstellung für die Aktualisierungsgeschwindigkeit (Aktualisierungspause) hat nun wesentlich mehr Einfluss auf Leistung / Latenz / CPU Ausnutzung. 
 - Ein Fehler wurde korrigiert: neu markierte Truppen haben nicht immer gesprochen.
 - Ein Fehler wurde korrigiert das Truppen in einer Gruppierung nicht immer gesprochen haben.
-- Speicherleck im Hauptthred behoben. (canvas)
+- Speicherleck im Hauptthred behoben.(not allow to draw)
 ---
 **Änderungen der Sprüche / Voices**
 - Einige kleine änderungen der Sprüche für Fussvolk Einheiten.
