@@ -4,7 +4,7 @@ Release Datum: noch unbekannt
 ---
 **Neue Funktionen**
 - Es wird nun teilweise erkannt, ob ein Trupp die Position wechselt, oder ob ein Trupp einen Angriff (roter angriff) auf gegnerische Truppen startet. 
-  Dadurch können die SoundSpüche passender zugeordnet werdern.
+  Dadurch können die SoundSprüche passender zugeordnet werden.
 ---
 **Änderunngen/Korrekturen**
 - Der Positionswechsel und Angriffbefehl von Truppen wird nun wesentlich zuverlässiger erkannt. 
