@@ -2,7 +2,7 @@
 German Voices / Deutsche Stimmen
 
 Dieser Mod legt komplett neue Stimmen über Comapany of Hereoes 3. 
-Der Mod ist experimentell und noch in einer früher Alpha phase. 
+Der Mod ist experimentell und noch in einer früher Entwicklungsphase. 
 Ein Mod der hoffentlich nur kurzfristig exisitieren wird. In der Hoffnung das richtige deutsche Stimmen von Relic in Spiel integriert werden.
 Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu lassen. 
 
@@ -29,19 +29,13 @@ Dieser Mod ist sehr experimentell und in früher Entwicklungsphase! (Einige Fukt
 ---
 
 **Was funktioniert bereits?**
-Was funktioniert bereits?
 Die meisten Truppen können bereits Deutsch sprechen. Die Anzahl und Variationen an Sprüchen wird aber noch massiv ausgebaut werden. (Im moment wird von meiner Seite aus die Priorirät auf das Tool selbst gelegt. Die Audio anpassungen kommen später oder können durch euch selber angepasst werden. 
 
 Die Sprüche können angepasst werden durch bearbeiten von zwei Text dateien (sound_index.txt für fahrzeuge)
 sound_index_troops.txt für fussvolk)
-Die Zahlen bestimmen Start und Stop Position im SoundFile. Das SoundFile kann in der Mod.exe mit den Start und Stop Zahlen aus dem txt File abgespielt werden.
+Die Zahlen bestimmen Start und Stop Position im SoundFile. Es können beliebig viele Sprüche hinzugefügt / entfernt werden. Das SoundFile kann in der Mod.exe mit den Start und Stop Zahlen aus dem txt File abgespielt werden um neue Sprüche finden zu können. 
 
-Mehr Informationen und ausführliche Erklärungen werden in den nächsten Wochen folgen. 
 
 **Bekannte Fehler / Fehlende Funktionen:**
 - 
-
-**Warum dieser ganzer Aufwand? Warum so kompliziert?**
-Relic hat es anscheinend nicht nur für unnötig gehalten richtige Deutsche Stimmen ins Spiel zu integrieren. Sie blockieren sogar ganz bewusst das Austauschen der Sounddatenbanken. (Modifiziert man die Originalen Datenbanken mit Coh1 oder Coh2 Stimmen, auch wenn man die Sounddateien aufs gleiche Format umgewandelt werden und anschliessend wieder gepackt werden, so  löscht das Spiel bein starten die Modifizierten Dateien. 
-(Falls hier jemand eine Lösung weiss, bitte unbedingt melden, es wäre natürlich um Welten besser die Sounddateien modifzieren zu können).
 
