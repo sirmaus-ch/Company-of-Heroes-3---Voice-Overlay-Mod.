@@ -4,7 +4,7 @@ Release Datum: in arbeit...
 - Angewählte Gebäude können nun sprechen oder einen Soundeffekt abgeben. (Im Momemnt Nur Deutsche, keine Afrika Gebäude)
 - Fix das PanzerGRUPPEN nur Positions wechsel gesprochen haben aber nicht das sie angewählt wurden. 
 - Fix das MG42 nicht gesprochen hat.
-- Es wird nun erkannt wenn ein PanzerMG ausgebaut wird und kann eine Meldung machen. 
+- Es wird nun erkannt wenn ein PanzerMG angefordert wird und kann eine Meldung machen. 
 - Ein paar Störgeräusche entfernt.
 
 - Audio für folgende Fahrzeuge aktiviert: AfrikaPanzerIV161, LeichterPanzerL6_40, beobachtungskraftwagen254, 25T_sanitatlastwagen
