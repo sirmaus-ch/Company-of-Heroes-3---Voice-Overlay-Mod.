@@ -5,3 +5,4 @@ Release Datum: in arbeit...
 - Fix das PanzerGRUPPEN nur Positions wechsel gesprochen haben aber nicht das sie angewählt wurden. 
 - Fix das MG42 nicht gesprochen hat.
 - Es wird nun erkannt wenn ein PanzerMG ausgebaut wird und kann eine Meldung machen. 
+- Ein paar Störgeräusche entfernt.
