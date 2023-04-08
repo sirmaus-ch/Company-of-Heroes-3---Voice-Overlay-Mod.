@@ -35,7 +35,3 @@ Die Sprüche können angepasst werden durch bearbeiten von zwei Text dateien (so
 sound_index_troops.txt für fussvolk)
 Die Zahlen bestimmen Start und Stop Position im SoundFile. Es können beliebig viele Sprüche hinzugefügt / entfernt werden. Das SoundFile kann in der Mod.exe mit den Start und Stop Zahlen aus dem txt File abgespielt werden um neue Sprüche finden zu können. 
 
-
-**Bekannte Fehler / Fehlende Funktionen:**
-- 
-
