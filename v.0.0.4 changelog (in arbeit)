@@ -2,3 +2,4 @@ v.0.0.4
 Release Datum: in arbeit...
 
 - Angewählte Gebäude können nun sprechen oder einen Soundeffekt abgeben. (Im Momemnt Nur Deutsche, keine Afrika Gebäude)
+- Fix das PanzerGRUPPEN nur Positions wechsel gesprochen haben aber nicht das sie angewählt wurden. 
