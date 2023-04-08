@@ -1,11 +1,12 @@
 v.0.0.4
 Release Datum: in arbeit...
 
-- Angewählte Gebäude können nun sprechen oder einen Soundeffekt abgeben. (Im Momemnt Nur Deutsche, keine Afrika Gebäude)
+- Angewählte Basis Gebäude können nun sprechen oder einen Soundeffekt abgeben. (Im Momemnt Nur Deutsche, keine Afrika Gebäude)
+- Angewählte MG Bunker können nun sprechen oder einen Soundeffekt abgeben.
 - Fix das PanzerGRUPPEN nur Positions wechsel gesprochen haben aber nicht das sie angewählt wurden. 
 - Fix das MG42 nicht gesprochen hat.
-- Es wird nun erkannt wenn ein PanzerMG angefordert wird und kann eine Meldung machen. 
-- Ein paar Störgeräusche entfernt.
+- Es wird nun erkannt wenn ein Panzer ein MG anfordert und macht eine Meldung. 
+- Ein paar Störgeräusche aus Audio's entfernt.
 
 - Audio für folgende Fahrzeuge aktiviert: AfrikaPanzerIV161, LeichterPanzerL6_40, beobachtungskraftwagen254, 25T_sanitatlastwagen
 - Audio für folgende Fussvolk Einheiten aktiviert: Besaglieri, Gustatori, Cannoneda105
