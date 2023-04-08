@@ -6,3 +6,6 @@ Release Datum: in arbeit...
 - Fix das MG42 nicht gesprochen hat.
 - Es wird nun erkannt wenn ein PanzerMG ausgebaut wird und kann eine Meldung machen. 
 - Ein paar Störgeräusche entfernt.
+
+- Audio für folgende Fahrzeuge aktiviert: AfrikaPanzerIV161, LeichterPanzerL6_40, beobachtungskraftwagen254, 25T_sanitatlastwagen
+- Audio für folgende Fussvolk Einheiten aktiviert: Besaglieri, Gustatori, Cannoneda105
