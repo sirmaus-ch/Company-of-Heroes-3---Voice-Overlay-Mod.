@@ -15,6 +15,7 @@ Neu:
 - Korrekturen mit Gruppierungen und Bevörderungen. (Audio Ausfall)
 - Angriff auf Gegner wird nun wesentlich besser erkannt.
 - GUI angepasst und nur noch 1 Latenz Einstellung.
+- SERVICE.exe / GUI.exe erstellt im Fall eines crash startet sich der Service automatisch neu sofern das spiel läuft. 
 
 Audio Änderungen:
 - Ein paar Störgeräusche aus Audio's entfernt.
