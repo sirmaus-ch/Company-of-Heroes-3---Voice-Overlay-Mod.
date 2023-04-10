@@ -1,0 +1,7 @@
+Wenn man folgende 3 Dateien umbenennt, so ist die Sprache der Deutschen und AfrikaDeutschen deaktiviert. 
+Die Amerikanischen bleiben jedoch original vom Spiel erhalten und funktionieren weiterhinn.
+So muss man auch nicht mehr die Spielsprache Lautstärke auf 0% stellen. 
+
+"C:\Program Files (x86)\Steam\steamapps\common\Company of Heroes 3\anvil\archives\SoundSpeechAxis.sga"
+"C:\Program Files (x86)\Steam\steamapps\common\Company of Heroes 3\anvil\archives\SoundSpeechAxisDAK.sga"
+"C:\Program Files (x86)\Steam\steamapps\common\Company of Heroes 3\anvil\archives\SoundSpeechAxisWehr.sga"
