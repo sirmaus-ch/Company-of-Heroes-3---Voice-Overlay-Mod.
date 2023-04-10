@@ -20,9 +20,9 @@ Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu l
 Version: 0.0.3 (08.04.2023) 
 Dieser Mod ist sehr experimentell und in früher Entwicklungsphase! (Einige Fuktionen/Audio's fehlen noch oder müssen noch ausgebaut werden).
 
-**DOWNLOAD** https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v003.zip
+**DOWNLOAD** https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v004.zip
 
-**Mirror:** https://www.mediafire.com/file/p0kmtrzqoaa6703/COH3_Audio_Overlay_Mod_v003.zip/file
+**Mirror:** https://www.mediafire.com/file/2ojvf1o3zu6jaxj/COH3_Audio_Overlay_Mod_v004.zip/file
 
 **Youtube:** https://youtu.be/koBv9voN7cA (v.0.0.1) 
 
