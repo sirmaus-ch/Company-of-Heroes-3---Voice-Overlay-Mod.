@@ -4,3 +4,9 @@ Release Datum: noch in arbeit...
 - Code anpassung für weniger CPU Auslastung / Bessere stabilität.
 - Der Mod erkennt nun wenn man nicht / nicht mehr im Gefecht ist und schaltet sich für dieses Zeit aus. 
 - Der Mod erkennt nun wenn man unten rechts im Spielmenu ist und gibt keine Audio Meldungen in dieser zeit. (wird geändert, falls zukünftig menu sounds hinzugefügt werden)
+- Wenn Sandsäcke oder Stacheldraht gebaut wird wird jetzt erkannt / gesprochen. 
+
+
+Audio Änderungen:
+- Neu Sprüche für Fussvolk Angriff hinzugefügt.
+- Sprüche personalisiert für Panzer IV, StugIII, Ostwind(Wirbelwind)
