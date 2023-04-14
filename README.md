@@ -18,7 +18,7 @@ Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu l
 
 **Neuste Version:** 
 Version: 0.0.4 (10.04.2023) 
-Dieser Mod ist sehr experimentell und in früher Entwicklungsphase! (Einige Fuktionen/Audio's fehlen noch oder müssen noch ausgebaut werden).
+Dieser Mod ist experimentell und noch Entwicklungsphase! (Einige Fuktionen/Audio's fehlen noch oder müssen noch ausgebaut werden).
 
 **DOWNLOAD** https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v004.zip
 
@@ -29,9 +29,6 @@ Dieser Mod ist sehr experimentell und in früher Entwicklungsphase! (Einige Fukt
 ---
 
 **Was funktioniert bereits?**
-Die meisten Truppen können bereits Deutsch sprechen. Die Anzahl und Variationen an Sprüchen wird aber noch massiv ausgebaut werden. (Im moment wird von meiner Seite aus die Priorirät auf das Tool selbst gelegt. Die Audio anpassungen kommen später oder können durch euch selber angepasst werden. 
-
-Die Sprüche können angepasst werden durch bearbeiten von zwei Text dateien (sound_index.txt für fahrzeuge)
-sound_index_troops.txt für fussvolk)
-Die Zahlen bestimmen Start und Stop Position im SoundFile. Es können beliebig viele Sprüche hinzugefügt / entfernt werden. Das SoundFile kann in der Mod.exe mit den Start und Stop Zahlen aus dem txt File abgespielt werden um neue Sprüche finden zu können. 
-
+- Die meisten Truppen können bereits Deutsch sprechen. Die Anzahl und Variationen an Sprüchen wird in noch weiter ausgebaut.
+- Einige Spezialfunktionen (zB MG Upgrade, Stacheldraht Bau, etc) funktionieren auch bereits. 
+- Sprüche können von jedem selbst bearbeitet / angepasst werden. Eine Detailierte Anleitung folgt demnächst hier.
