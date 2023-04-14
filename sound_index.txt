@@ -1,0 +1,1900 @@
+V0E
+//PantherPanzer Befehel position wechsel
+32
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+879196,882100, Setzen Sie sofort diesen Panther in Bewegung
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+1044964,1046346,Panther rücken aus.
+366750,368400,übung macht den meister
+872967,875107, Bringen Sie den Panther in bewegung
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+877990,879136,Panther in Bewegung
+876642,877940,Panther ist unterwegs
+875020,876542,Panther hat Marschbefehl
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+end;
+V0E_SE
+//Panther Panzer Selektiert
+14
+725910,733100,keine chanche gegen deutsche panzer, keine
+790650,796200,ist doch egal für den fein sind wir einfach der tod
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+819389,821350,Sie brauchen Panther unterstützung?
+827100,828000,hier Panther
+828120,830000,panther ist einsatzbereit
+830000,832500,hier schwerer panzer, wie können wir helfen
+821381,822318, Panther bereit
+824992,826991, Panzer V erwartet Befehle
+835305,837880, Schwerer Panzer ebreits für Befehle
+837881,838991, In bereitschaft
+end;
+AG0MV
+//Panther Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+872967,875107,bringen sie den panther in bewegung
+end;
+
+
+V1E
+//WirbelwindPanzer Befehl
+29
+73510,75400,sicht nach vorne konzentrieren
+570920,573000,hören sie dass? wir werden beschossen.
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1874406,1876142,ostwind ist unterwegs
+1876142,1877281,wie der wind
+1877281,1879287,flak panzer besatzung, bewegung!
+1884795,1886165,ostwind in bewegung
+1888970,1890963,ostwind wechselt position
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V1E_SE
+//Wirbelwind Panzer Selektiert
+11
+1929486,1930461,ostwind
+1930420,1931961,ostwind in bereitschaft
+1931961,1933998,ostwinf geladen und bereits
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG1MV
+//Wirbelwind Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+1738366,1740075,Ostwind ist auf  der jagt
+end;
+
+
+
+
+V2E
+//Kettenfahrzeug Befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V2E_SE
+//Kettenfahrzeug Selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG2MV
+//Kettenfahrzeug Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+V3E
+//MarderIII befehl
+28
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+1059759,1061807,rücken vor in feindgebiet
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V3E_SE
+//MarderIII selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG3MV
+//Marder III Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+V4E
+//8RadPanzer befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+1059759,1061807,rücken vor in feindgebiet
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V4E_SE
+//8Rad Panzer selektiert
+11
+790650,796200,ist doch egal für den fein sind wir einfach der tod
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG4MV
+//8Rad Panzer Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+V5E
+//Schuetzenpanzer251 befehl
+28
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V5E_SE
+//Schuetzenpanzer251 selektiert
+11
+725910,733100,keine chanche gegen deutsche panzer, keine
+790650,796200,ist doch egal für den fein sind wir einfach der tod
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG5MV
+//Schuetzenpanzer251 Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+V6E
+//PanzerIV befehl
+27
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+1893197,1890963,panzer IV ist in bewegung.
+1894917,1897197,panzer Iv wechselt einsatzgebiet
+1899708,1902191,panzer IV geht in neue position
+1902191,1903951,panzer IV fährt los
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1442861,1443899,ja wird gemacht
+end;
+V6E_SE
+//Panzer IV selektiert
+9
+1935587,1937190,Panzer IV bereit
+1937270,1938713,Panzer IV hört
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+1934006,1935587, Panzer IV steht bereit
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG6MV
+//Panzer IV Angriff auf Gegner
+2
+1744384,1746050,Panzer IV ist auf der Jagt
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+V7E
+//Tiger befehl
+30
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+879196,882100, Setzen Sie sofort diesen Panther in Bewegung
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V7E_SE
+//Tiger selektiert
+13
+1120564,1124348,Wenn was erledigt werden soll ruft man einen tiger. 
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+811500,812410, Tiger bereit
+812381,814901, Panzerkampfawagen Tiger erwartet Befehel
+814921,815474, Tiger
+815426,817242, Tiger benötig Befehle
+817261,818427, Tiger ist bereit
+818450,819436, Hier Tiger
+835305,837880, Schwerer Panzer ebreits für Befehle
+end;
+AG7MV
+//Tiger Angriff auf Gegner
+6
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+1031300,1033841,Tiger sucht Ziele
+1035650,1038300,Hier Tiger wir rücken aus ins gefecht
+1115112,1117000, Tiger wird das Ziel zerstören.
+1116891,1119408, Tiger bestätigt Angriff befehle.
+end;
+
+
+
+
+
+
+
+V8E
+//STUGIII befehl
+29
+73510,75400,sicht nach vorne konzentrieren
+1081369,1084104,Wir werden suchen und zerstören.
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V8E_SE
+//STUG-III selektiert
+11
+1938713,1939822,stug bereit
+1939882,1940647,stug hier
+1940747,1942831,sturmgeschütz steht bereit
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG8MV
+//STUG-III Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+1746090,1748355,gehen wir mit diesem stug auf die jgt
+end;
+
+
+
+V9E
+//Panzerspähwagen221 befehl
+31
+73510,75400,sicht nach vorne konzentrieren
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V9E_SE
+////Panzerspähwagen221 selektiert
+11
+725910,733100,keine chanche gegen deutsche panzer, keine
+790650,796200,ist doch egal für den fein sind wir einfach der tod
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG9MV
+//Panzerspähwagen221 Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+V10E
+//Defekter Motor Meldung
+2
+290300,292500,motor verloren
+290300,292500,motor verloren
+end;
+AG10MV
+//KEINE FUNKTION. muss aber drinn bleiben
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+V11E
+//STUGIIIkurzrohr befehl
+29
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+73510,75400,sicht nach vorne konzentrieren
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+879196,882100, Setzen Sie sofort diesen Panther in Bewegung
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+end;
+V11E_SE
+//STUGIIIkurzrohr selektiert
+11
+1938713,1939822,stug bereit
+1939882,1940647,stug hier
+1940747,1942831,sturmgeschütz steht bereit
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG11MV
+//STUGIIIkurzrohr Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+1746090,1748355,gehen wir mit diesem stug auf die jgt
+end;
+
+
+
+
+V12E
+//TonnenVersorgungsfahrzeug (2.5) befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+603000,604800,haben wir noch lack übrig
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+end;
+V12E_SE
+//2.5 Tonnen Versorgungsfahrzeug selektiert
+6
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+end;
+AG12MV
+//2.5 Tonnen Versorgungsfahrzeug Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+
+V13E
+//AfrikaMarderIII befehl
+28
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+73510,75400,sicht nach vorne konzentrieren 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+625790,628400,wenn wir nur noch ein paar tausen tiger hätten.
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V13E_SE
+//AfrikaMarderIII selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG13MV
+//AfrikaMarderIII  Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+
+
+
+V14E
+//AfrkikePanzerIII_L  befehl
+25
+73510,75400,sicht nach vorne konzentrieren
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V14E_SE
+//AfrkikePanzerIII_L  selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG14MV
+//AfrkikePanzerIII_L  Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+
+
+V15E
+//AfrikaBergungsfahrzeug befehl
+25
+73510,75400,sicht nach vorne konzentrieren
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+603000,604800,haben wir noch lack übrig
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V15E_SE
+//Afrika Bergungsfahrzeug selektiert
+7
+603000,604800,haben wir noch lack übrig
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+end;
+AG15MV
+//Afrika Bergungsfahrzeug Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+V16E
+//AfrikaFlakVierling  befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V16E_SE
+//Afrika FlaskVierling  selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+
+end;
+AG16MV
+//Afrika FlaskVierling  Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+V17E
+//AfrikaFlamePanzer  befehl
+28
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V17E_SE
+//Afrika FlamePanzer  selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG17MV
+//Afrika FlamePanzer  Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+V18E
+//AfriaStukazuFuss  befehl
+26
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V18E_SE
+//Afria Stuka zu Fuss  selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG18MV
+//Afria Stuka zu Fuss  Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+V19E
+//Wespe  befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V19E_SE
+//Wespe selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG19MV
+//wespe Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+
+
+
+V20E
+//PanzebefehlswagenIV  befehl
+27
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+1893197,1890963,panzer IV ist in bewegung.
+1894917,1897197,panzer Iv wechselt einsatzgebiet
+1899708,1902191,panzer IV geht in neue position
+1902191,1903951,panzer IV fährt los
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1442861,1443899,ja wird gemacht
+end;
+V20E_SE
+//PanzebefehlswagenIV selektiert
+9
+1935587,1937190,Panzer IV bereit
+1937270,1938713,Panzer IV hört
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+1934006,1935587, Panzer IV steht bereit
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG20MV
+//PanzebefehlswagenIV Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+1744384,1746050,Panzer IV ist auf der Jagt
+882723,883674, Verstanden
+end;
+
+
+
+
+
+V21E
+//SPEZ BEFEHL wenn mehrere Panzer angewählt sind  befehl
+28
+73510,75400,sicht nach vorne konzentrieren
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+879196,882100, Setzen Sie sofort diesen Panther in Bewegung
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V21E_SE
+////SPEZ BEFEHL wenn mehrere Panzer angewählt sind  selekriert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG21MV
+//SPEZ BEFEHL wenn mehrere Panzer angewählt sind  befehl
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674,Verstanden
+end;
+
+
+
+
+
+
+V22E_SE
+////SPEZ BEFEHL Hauptqaurtier  selektiert
+2
+3642886,3643564
+3642886,3643564
+end;
+
+
+
+
+
+
+
+V23E_SE
+////SPEZ BEFEHL Luftwaffen_kompanie_de  selektiert
+2
+3642886,3643564
+3642886,3643564
+end;
+
+
+
+
+
+
+V24E_SE
+///SPEZ BEFEHL Infantriekompanie_de  selektiert
+2
+3647337,3649989
+3647337,3649989
+end;
+
+
+
+
+
+
+V25E_SE
+////SPEZ BEFEHL MG42Bunker_de  selektiert
+2
+3649989,3652250
+3649989,3652250
+end;
+
+
+
+
+
+
+
+V26E_SE
+////SPEZ BEFEHL PanzerGrenadierKompanie_de  selektiert
+2
+3647337,3649989
+3647337,3649989
+end;
+
+
+
+
+
+V27E_SE
+////SPEZ BEFEHL PanzerKompanie_de  selektiert
+2
+3653050,3655250
+3653050,3655250
+end;
+
+
+
+V28E_SE
+////SPEZ BEFEHL Panzer MG im Bau
+4
+2305958,2308787
+2315358,2320183
+2308787,2311500
+2311600,2315361
+end;
+
+
+
+
+
+
+V29E
+//AfrikaPanzerIV161  befehl
+27
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+1893197,1890963,panzer IV ist in bewegung.
+1894917,1897197,panzer Iv wechselt einsatzgebiet
+1899708,1902191,panzer IV geht in neue position
+1902191,1903951,panzer IV fährt los
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1442861,1443899,ja wird gemacht
+end;
+V29E_SE
+//AfrikaPanzerIV161 selektiert
+9
+1935587,1937190,Panzer IV bereit
+1937270,1938713,Panzer IV hört
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+1934006,1935587, Panzer IV steht bereit
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG29MV
+//AfrikaPanzerIV161 Angriff auf Gegner
+3
+1744384,1746050,Panzer IV ist auf der Jagt
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+
+
+
+V30E
+//LeichterPanzerL6_40  befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+879196,882100, Setzen Sie sofort diesen Panther in Bewegung
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V30E_SE
+//LeichterPanzerL6_40 selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG30MV
+//LeichterPanzerL6_40 Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+
+
+
+
+V31E
+//Beobachtungskraftwagen254  befehl
+26
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V31E_SE
+//Beobachtungskraftwagen254 selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG31MV
+//Beobachtungskraftwagen254 Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+V32E
+//tsanitatlastwagen  befehl
+25
+73510,75400,sicht nach vorne konzentrieren
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+end;
+V32E_SE
+//tsanitatlastwagen selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG32MV
+//tsanitatlastwagen Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+882723,883674, Verstanden
+end;
+
+
+
+V33E
+// AFRIKA PanzebefehlswagenIV  befehl
+27
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+1893197,1890963,panzer IV ist in bewegung.
+1894917,1897197,panzer Iv wechselt einsatzgebiet
+1899708,1902191,panzer IV geht in neue position
+1902191,1903951,panzer IV fährt los
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1442861,1443899,ja wird gemacht
+end;
+V33E_SE
+// AFRIKA PanzebefehlswagenIV selektiert
+9
+1935587,1937190,Panzer IV bereit
+1937270,1938713,Panzer IV hört
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+1934006,1935587, Panzer IV steht bereit
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG33MV
+// AFRIKA PanzebefehlswagenIV Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+1744384,1746050,Panzer IV ist auf der Jagt
+882723,883674, Verstanden
+end;
+
+
+V34E
+//Afrika Leichter Schuetzenpanzer250 befehl
+28
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V34E_SE
+//Afrika Leichter Schuetzenpanzer250 selektiert
+11
+725910,733100,keine chanche gegen deutsche panzer, keine
+790650,796200,ist doch egal für den fein sind wir einfach der tod
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG34MV
+//Afrika Leichter Schuetzenpanzer250 Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+
+V35E
+//AFRIKaMarderIII befehl
+28
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V35E_SE
+//AFRIKaMarderIII selektiert
+9
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG35MV
+//AFRIKaMarder III Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+V39E
+//AFRIKa 8RadPanzer befehl
+27
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+908912,910690,Marschbefehle bestätigt
+910790,911633, Sind gleich da.
+915290,916876, Fahrer bringen sie uns hinn.
+917698,918598,rücken aus
+929473,930228, Beeilung
+930228,930956, Schnell
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V39E_SE
+//AFRIKa8Rad Panzer selektiert
+11
+790650,796200,ist doch egal für den fein sind wir einfach der tod
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG39MV
+//AFRIKa8Rad Panzer Angriff auf Gegner
+2
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+end;
+
+
+
+
+V36E
+//AFRIKa Tiger befehl
+30
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+879196,882100, Setzen Sie sofort diesen Panther in Bewegung
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V36E_SE
+//AFRIKa Tiger selektiert
+14
+725910,733100,keine chanche gegen deutsche panzer, keine
+1120564,1124348,Wenn was erledigt werden soll ruft man einen tiger. 
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+811500,812410, Tiger bereit
+812381,814901, Panzerkampfawagen Tiger erwartet Befehel
+814921,815474, Tiger
+815426,817242, Tiger benötig Befehle
+817261,818427, Tiger ist bereit
+818450,819436, Hier Tiger
+835305,837880, Schwerer Panzer ebreits für Befehle
+end;
+AG36MV
+//AFRIKa Tiger Angriff auf Gegner
+6
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+1031300,1033841,Tiger sucht Ziele
+1035650,1038300,Hier Tiger wir rücken aus ins gefecht
+1115112,1117000, Tiger wird das Ziel zerstören.
+1116891,1119408, Tiger bestätigt Angriff befehle.
+end;
+
+
+
+
+V37E
+//AFRIKa STUGIII befehl
+29
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V37E_SE
+//AFRIKa STUG-III selektiert
+11
+1938713,1939822,stug bereit
+1939882,1940647,stug hier
+1940747,1942831,sturmgeschütz steht bereit
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG37MV
+//AFRIKa STUG-III Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+1746090,1748355,gehen wir mit diesem stug auf die jgt
+end;
+
+
+
+V38E
+//AFRIKa STUGIIIkurzrohr befehl
+29
+73510,75400,sicht nach vorne konzentrieren
+216550,219350,die idee haben die von uns übernommen
+236850,240000,es ist keine herausvorderung infantrie zu töten. 
+366750,368400,übung macht den meister
+421311,423560,tapfer aber törich
+570920,573000,hören sie dass? wir werden beschossen.
+597890,599600,was für ein narr
+725910,733100,keine chanche gegen deutsche panzer, keine
+799520,802300,kommen sie zur sache oder lassen sie uns in ruhe
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+1813449,1814384,Gas geben
+1816141,1817566,Sind jetzt unterwegs
+1814524,1815111,Vollgas
+1819920,1821639,nur nicht den motor schonen
+1812095,1813407,wir müssen hier raus
+1832003,1833247,dann mal los fahrer
+1836601,1838236,Position wird gewechselt
+1838236,1840773,schönste reiserute wird berechnet
+1840773,1842951,legen wir mal einen zahn zu fahrer
+1842991,1843955,brechen auf
+1843995,1845215,sind unterwegs
+1845215,1846510,wechseln position
+1846610,1848306,kampfwagen ist in bewegung
+1848376,1850191,wechseln das einsatzgebiet
+1850191,1852055,zielposition bestätigt
+1854741,1855729,rücken vor
+end;
+V38E_SE
+//AFRIKa STUGIIIkurzrohr selektiert
+11
+1938713,1939822,stug bereit
+1939882,1940647,stug hier
+1940747,1942831,sturmgeschütz steht bereit
+802350,804450,wir haben keine zeit für spielchen
+804400,806600,was zum teufel wollen sie diesmal
+806600,808400,scheisse was jetzt
+808500,810900,sehen sie nicht das wir beschäftigt sind
+837881,838991, In bereitschaft
+838991,839770, Befehle
+839697,840815, Was möchten Sie?
+840767,841453, Bereit
+end;
+AG38MV
+//AFRIKa STUGIIIkurzrohr Angriff auf Gegner
+3
+94200,96000,kurz und heftig
+147000,149000,die scheisse wird ernst
+1746090,1748355,gehen wir mit diesem stug auf die jgt
+end;
