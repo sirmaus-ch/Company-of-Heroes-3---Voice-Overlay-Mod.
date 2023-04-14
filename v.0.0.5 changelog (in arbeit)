@@ -2,11 +2,13 @@ Version: 0.0.5
 Release Datum: noch in arbeit...
 
 - Code anpassung für weniger CPU Auslastung / Bessere stabilität.
-- Der Mod erkennt nun wenn man nicht / nicht mehr im Gefecht ist und schaltet sich für dieses Zeit aus. 
-- Der Mod erkennt nun wenn man unten rechts im Spielmenu ist und gibt keine Audio Meldungen für Truppen und Fahrzeuge wenn keine Menu Punkz benutzt wird.
-- Der Mod erkennt nun wenn man Sandsäcke oder Stacheldraht baut und gibt Audio Meldung aus. 
-- Der Mod erkennt nun wenn ein MG für einen Panzer angefordert wird und gibt eine Audio Meldung aus. 
-- Der Mod erkennt nun wenn ein Flammenwerfer angefordert wird und gibt eine Audio Meldung aus. 
+ 
+ Der Mod erkennt neu: 
+- wenn man nicht / nicht mehr im Gefecht ist und schaltet sich für dieses Zeit aus. 
+- wenn man unten rechts im Spielmenu ist und gibt keine Audio Meldungen für Truppen und Fahrzeuge wenn keine Menu Punkt benutzt wird.
+- wenn man Sandsäcke oder Stacheldraht baut -> gibt Audio Meldung aus. 
+- wenn ein MG für einen Panzer angefordert wird -> gibt Audio Meldung aus. 
+- wenn ein Flammenwerfer angefordert wird -> gibt Audio Meldung aus. 
 
 
 
