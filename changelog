@@ -1,0 +1,89 @@
+Version: 0.0.5
+Release Datum: 15.04.2023
+
+- Code anpassung für weniger CPU Auslastung / Bessere stabilität.
+ 
+ Der Mod erkennt neu: 
+- wenn man nicht / nicht mehr im Gefecht ist und schaltet sich für dieses Zeit aus. 
+- wenn man unten rechts im Spielmenu ist und gibt keine Audio Meldungen für Truppen und Fahrzeuge wenn keine Menu Punkt benutzt wird.
+- wenn man Sandsäcke oder Stacheldraht baut -> gibt Audio Meldung aus. 
+- wenn ein MG für einen Panzer angefordert wird -> gibt Audio Meldung aus. 
+- wenn ein Flammenwerfer angefordert wird -> gibt Audio Meldung aus. 
+- wenn Infantrie Rückzug ausgelöst wird -> gibt Audio Meldung
+
+
+
+Audio Änderungen:
+- Brummbär kann jetzt auch sprechen.
+- Neu Sprüche für Fussvolk "Angriff" hinzugefügt.
+- Neu Sprüche für Fussvolk "Selektiert" hinzugefügt.
+- Sprüche zt personalisiert für Panzer IV, StugIII, Ostwind(Wirbelwind), Pioniere, Tiger, Panther
+- Die Anzahl der Sprüche werden nun automatisch beim start des Tools eingelesen und im txt falls notwendig korrigiert. Dies erleichert das hinzufügen / entfernen von Sprüchen.
+- Kleine verbesserungen am Player vorgenommen (+/- 50/5000ms buttons). Für schnellere Bedienung
+
+//////////////////////////////////
+
+v.0.0.4
+Release Datum: 10.04.2023
+
+Neu:
+- Angewählte Basis Gebäude können nun sprechen oder einen Soundeffekt abgeben. (Im Momemnt Nur Deutsche, keine Afrika Gebäude)
+- Angewählte MG Bunker können nun sprechen oder einen Soundeffekt abgeben.
+- Audio für folgende Fahrzeuge aktiviert: Afrika Befehlswagen-p-IV, AfrikaPanzerIV161, LeichterPanzerL6_40, beobachtungskraftwagen254, 25T_sanitatlastwagen
+- Audio für folgende Fussvolk Einheiten aktiviert: Besaglieri, Gustatori, Cannoneda105
+
+Änderungen / Fix:
+- Fix das PanzerGRUPPEN nur Positions wechsel gesprochen haben aber nicht das sie angewählt wurden. 
+- Fix das MG42 nicht gesprochen hat.
+- Fix bei gehaltener rechte maustaste wird nur noch 1x ein spruch ausgegeben anstatt die ganze zeit. 
+- Bei ungültigen Zeitangaben eines Spruches wurde die Sprachausgabe unter umständen blockiert/programm absturz.
+- Optimierungen für CPU Auslastung / Audio Latenz.
+- Korrekturen mit Gruppierungen und Bevörderungen. (Audio Ausfall)
+- Angriff auf Gegner wird nun wesentlich besser erkannt.
+- GUI angepasst und nur noch 1 Latenz Einstellung.
+- SERVICE.exe / GUI.exe erstellt. im Fall eines crash startet sich der Service automatisch neu sofern das spiel läuft. 
+- Sowohl Service.exe wie auch Gui.exe lassen sich nur noch 1x starten. 
+- Die Service.exe wird automatisch gestartet wenn das Spiel läuft und automatisch beendet falls das spiel nicht läuft.
+
+Audio Änderungen:
+- Ein paar Störgeräusche aus Audio's entfernt.
+- Ein paar neue Sprüche hinzugefüt (Allgemeine bei Fahrzeug Befehele, Spezifische bei Panzer IV und Wirbelwind)
+
+//////////////////////////////////
+
+version: 0.0.3
+Release Datum: 08.04.2023
+
+- Diverse Code Optimierungen um die Audio Latenz und CPU auslastung zu verbessern. 
+- Defekte Motor Erkennung deaktiviert um cpu / Latenz zu verbessern. (wird evt später wieder eingebaut).
+- Fehler behoben das im zusamennhang mit Truppen Beförderungen der Sound für Fahrzeuge nicht mehr funktionierte.
+- Zuverlässigere Erkennung von Fahrzeug selektion.
+
+- Audio unterstützung für Fahrzeug Truppen aktiviert: Afrika Bergungsfahrzeug, Afrika Stuka zu Fuss, Afrika Flackvierling, Afrika Flammenpanzer, Wespe, PanzebefehlswagenIV
+- Audio unterstützung für Fussvolk Truppen aktiviert: Afrika Mechan. Panzerjaegertrupp, Afrika Pak38, Pak40, Flak30, Mörsertrupp, Nebelwerfer, Leig18, Flak36
+
+//////////////////////////////////
+
+version: 0.0.2
+Release Datum: 06.04.2023
+---
+**Neue Funktionen**
+- Es wird nun teilweise erkannt, ob ein Trupp die Position wechselt, oder ob ein Trupp einen Angriff (roter angriff) auf gegnerische Truppen startet. 
+  Dadurch können die SoundSprüche passender zugeordnet werden.
+---
+**Änderunngen/Korrekturen**
+- Der Positionswechsel und Angriffbefehl von Truppen wird nun wesentlich zuverlässiger erkannt. 
+- Diverse Performace / Code optimierungen.
+- Ein Fehler wurde behoben dass der gleiche Spruch direkt 2x hintereinander abgespielt werden konnte. 
+- Motorschaden zb durch Minen Audio Meldung, optimiert
+- Die Einstellung für die Aktualisierungsgeschwindigkeit (Aktualisierungspause) hat nun wesentlich mehr Einfluss auf Leistung / Latenz / CPU Ausnutzung. 
+- Ein Fehler wurde korrigiert: neu markierte Truppen haben nicht immer gesprochen.
+- Ein Fehler wurde korrigiert das Truppen in einer Gruppierung nicht immer gesprochen haben.
+- Speicherleck im Hauptthred behoben.(not allow to draw)
+---
+**Änderungen der Sprüche / Voices**
+- Einige kleine änderungen der Sprüche für Fussvolk Einheiten.
+- Fussvolk Audio's leicht korrigiert für weniger Störgeräusche. 
+- Audio unterstützung für Fussvolk Truppen aktiviert: Logistikoffiziersgefolge, Fallschirmpionier, Fallschirmscharfschütze, PanzerPioniere, Afrika-Sturmgrenadiere 
+- Audio unterstützung für Fahrzeug Truppen aktiviert: Panzerspähwagen221, StugIII Langrohr, Stug III kurzrohr, 2.5 Tonnen Versorgungs Truck, Afrika MarderIII, Afrika Panzer III-L
+- Mehr Sprüche für Fahrzeuge hinzugefügt.
