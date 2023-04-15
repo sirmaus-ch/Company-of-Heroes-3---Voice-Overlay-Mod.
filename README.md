@@ -8,7 +8,7 @@ Dieser Mod legt komplett neue Stimmen über Comapany of Hereoes 3. Dieser Mod is
 - Monitor und Spielauflösung müssen auf 1920x1080p sein!
 - Das Ingame Spielmenu muss original sein und darf nicht durch andere Mods verändert werden.
 - Die originalen InGame Stimmen müssen über "Einstellungen->Audio" deaktiviert werden (auf 0% stellen).
-  oder gemäss Beschreibung auf Github (Einzelne Stimmen deaktivieren)https://github.com/sirmaus-ch/Company-of-Heroes-3---Voice-Overlay-Mod./blob/main/Deutsche%20Game%20Stimmen%20deaktivieren
+  **oder** gemäss Beschreibung auf Github (Einzelne Stimmen deaktivieren)https://github.com/sirmaus-ch/Company-of-Heroes-3---Voice-Overlay-Mod./blob/main/Deutsche%20Game%20Stimmen%20deaktivieren
 - Die Mod-Application.exe muss im Hintergrund laufen.
 - Die Lautstärke der deutschen Mod Stimmen kann über den Windows Lautstärkemixer verändert werden. 
 
