@@ -24,8 +24,6 @@ Version: 0.0.5 (15.04.2023)
 
 **Mirror:** https://www.mediafire.com/file/wgzg50xdpkomtd8/COH3_Audio_Overlay_Mod_v005.zip/file
 
-**Youtube:** https://youtu.be/koBv9voN7cA (v.0.0.1) 
-
 ---
 
 **Was funktioniert bereits?**
