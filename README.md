@@ -12,7 +12,7 @@ Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu l
 - Das Ingame Spielmenu muss original sein und darf nicht durch andere Mods verändert werden.
 - Die originalen InGame Stimmen müssen über "Einstellungen->Audio" deaktiviert werden (auf 0% stellen).
   oder gemäss Beschreibung auf Github (Einzelne Stimmen deaktivieren)https://github.com/sirmaus-ch/Company-of-Heroes-3---Voice-Overlay-Mod./blob/main/Deutsche%20Game%20Stimmen%20deaktivieren
-- Die Mod-Application .exe muss im Hintergrund laufen und die Audio Overlay funktion muss aktiviert sein.
+- Die Mod-Application.exe muss im Hintergrund laufen.
 - Die Lautstärke der deutschen Mod Stimmen kann über den Windows Lautstärkemixer verändert werden. 
 
 ---
