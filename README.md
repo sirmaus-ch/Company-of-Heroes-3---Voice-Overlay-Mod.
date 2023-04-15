@@ -26,16 +26,20 @@ Alternativ Download Link: https://www.mediafire.com/file/wgzg50xdpkomtd8/COH3_Au
 
 ---
 
+
 **Was funktioniert bereits?**
 - Die meisten Truppen (Deutsche + DAK) können bereits Deutsch sprechen. Die Anzahl und Variationen an Sprüchen wird noch weiter ausgebaut.
 - Einige Spezialfunktionen (zB MG Upgrade, Stacheldraht Bau, etc) funktionieren auch bereits. 
 - Sprüche können von jedem selbst bearbeitet / angepasst werden. Eine Detailierte Anleitung folgt demnächst hier.
 
 
+
 **Was funktioniert nicht?**
 Da dieser Mod alles Grafisch erfasst, damit er weiss was im Spiel passiert, gibt es diverse Einschränkungen an Audio Möglichkeiten:
 zB: Es kann momentan nicht erkannt werden wenn ein eigener Trupp angegriffen wird. Es kann mom nicht erkannt werden wenn ein neues Gebiet erobert wurde oder verloren ging. usw...
 Einige funktionien werden im laufe der Zeit noch folgen...einige werden vermutlich nicht möglich sein einzubauen. Solange Relic jedoch keinen deutschen Stimmen einbaut oder diese zum modden freigibt, werde ich an diesem "OverlayMod" weiter arbeiten.                           
+
+
 
 **Warum nur 1920x1080p?**
 Da alle Ereignisse im Spiel Grafisch ausgelesen werden, konnte ich den Mod nur in der Auflösung schreiben der mein Monitor hat :). Wenn jemand wirklich Zeit und Motivation hat den Mod auf eine zusäztliche Auflösung anzupassen, so bitte bei mir melden. Es müssen diverse Screenshots und Fensterpositionen ausgelesen werden.  (Oder schickt mir einen 4k Monitor :D)
