@@ -1,9 +1,0 @@
-version: 0.0.6
-Release Datum: in arbeit.
-
-- Flammenwerder Ausbau wird nun auch in Gruppierungen ausgelöst.
-- Optimierungen für Flammenwerfer / MG Ausbau funktion. (Cpu/Latenz/Zuverlässigkeit)
-- Gustatori Trupp und PanzerPionier spricht nun auch bei Flammenwerfer ausbau.
-- "Granaten werfen" Audio für Grenadiere,Panzergrenadiere,FallschirmJägertrupp,Sturmgrenadiere,stosstrup,Besaglieri hinzugefügt
-- "Panzerschreck ausbau" Audio für Jägertrupp hinzugefügt.
-- Sandsäcke und Stacheldraht bau funktioniert nun zuverlässiger. 
