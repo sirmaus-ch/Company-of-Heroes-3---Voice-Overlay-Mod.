@@ -17,9 +17,9 @@ Dieser Mod legt komplett neue Stimmen über Comapany of Hereoes 3. Dieser Mod is
 **Neuste Version:** 
 Version: 0.0.5 (15.04.2023) 
 
-**Download:** https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v005.zip
+**Download:** https://gee.myasustor.com/COH3_Audio_Overlay_Mod_v006.zip
 
-Alternativ Download Link: https://www.mediafire.com/file/wgzg50xdpkomtd8/COH3_Audio_Overlay_Mod_v005.zip/file
+Alternativ Download Link:https://www.mediafire.com/file/3wmoexrhuttyoa8/COH3_Audio_Overlay_Mod_v006.zip/file
 
 ---
 
