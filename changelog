@@ -1,7 +1,7 @@
 Version: 0.0.6
 Release Datum: 16.04.2023
 
-- Flammenwerder Ausbau wird nun auch in Gruppierungen ausgelöst.
+- Flammenwerfer Ausbau wird nun auch in Gruppierungen ausgelöst.
 - Optimierungen für Flammenwerfer / MG Ausbau funktion. (Cpu/Latenz/Zuverlässigkeit)
 - Gustatori Trupp und PanzerPionier spricht nun auch bei Flammenwerfer ausbau.
 - "Granaten werfen" Audio für Grenadiere,Panzergrenadiere,FallschirmJägertrupp,Sturmgrenadiere,stosstrup,Besaglieri hinzugefügt
