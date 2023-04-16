@@ -1,3 +1,17 @@
+Version: 0.0.6
+Release Datum: 16.04.2023
+
+- Flammenwerder Ausbau wird nun auch in Gruppierungen ausgelöst.
+- Optimierungen für Flammenwerfer / MG Ausbau funktion. (Cpu/Latenz/Zuverlässigkeit)
+- Gustatori Trupp und PanzerPionier spricht nun auch bei Flammenwerfer ausbau.
+- "Granaten werfen" Audio für Grenadiere,Panzergrenadiere,FallschirmJägertrupp,Sturmgrenadiere,stosstrup,Besaglieri hinzugefügt
+- "Panzerschreck ausbau" Audio für Jägertrupp hinzugefügt.
+- Sandsäcke und Stacheldraht bau funktioniert nun zuverlässiger. 
+
+
+//////////////////////////////////
+
+
 Version: 0.0.5
 Release Datum: 15.04.2023
 
@@ -21,7 +35,9 @@ Audio Änderungen:
 - Die Anzahl der Sprüche werden nun automatisch beim start des Tools eingelesen und im txt falls notwendig korrigiert. Dies erleichert das hinzufügen / entfernen von Sprüchen.
 - Kleine verbesserungen am Player vorgenommen (+/- 50/5000ms buttons). Für schnellere Bedienung
 
+
 //////////////////////////////////
+
 
 v.0.0.4
 Release Datum: 10.04.2023
@@ -49,7 +65,9 @@ Audio Änderungen:
 - Ein paar Störgeräusche aus Audio's entfernt.
 - Ein paar neue Sprüche hinzugefüt (Allgemeine bei Fahrzeug Befehele, Spezifische bei Panzer IV und Wirbelwind)
 
+
 //////////////////////////////////
+
 
 version: 0.0.3
 Release Datum: 08.04.2023
@@ -62,7 +80,9 @@ Release Datum: 08.04.2023
 - Audio unterstützung für Fahrzeug Truppen aktiviert: Afrika Bergungsfahrzeug, Afrika Stuka zu Fuss, Afrika Flackvierling, Afrika Flammenpanzer, Wespe, PanzebefehlswagenIV
 - Audio unterstützung für Fussvolk Truppen aktiviert: Afrika Mechan. Panzerjaegertrupp, Afrika Pak38, Pak40, Flak30, Mörsertrupp, Nebelwerfer, Leig18, Flak36
 
+
 //////////////////////////////////
+
 
 version: 0.0.2
 Release Datum: 06.04.2023
