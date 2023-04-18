@@ -3,7 +3,7 @@ Release Datum: noch in arbeit...
 
 NEU:
 - Der Mod funktioniert nun auch wenn das Truppenmenu nach "oben rechts" verlegt wurde.
-- Der Mod erkennt nun wenn Fussvolk einheiten befohlen wird, "Objekte/Fahrzeuge" zu reparieren und gibt eine Audio meldung aus.
+- Der Mod erkennt nun wenn Fussvolk einheiten befohlen wird, "Objekte/Fahrzeuge" zu reparieren und gibt eine passende Audio meldung aus.
 
 Fix / Ändernungen:
 - Fix Rückzug Spruch von Fussvolk kam zt fällschlicherweise beim retour gang eines Fahrzeuges.
