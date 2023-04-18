@@ -112,15 +112,15 @@ Release Datum: 06.04.2023
 
 
 
-**Version: 0.0.7**
+##Version: 0.0.7##
 Release Datum: noch in arbeit:
 - Der Mod funktioniert nun auch wenn das Truppenmenu nach "oben rechts" verlegt wurde.
 - Der Mod erkennt nun wenn Fussvolk einheiten befohlen wird, "Objekte/Fahrzeuge" zu reparieren und gibt eine Audio meldung aus.
 
-**Fix / Ändernungen**
+###Fix / Ändernungen###
 - Fix Rückzug Spruch von Fussvolk kam zt fällschlicherweise beim retour gang eines Fahrzeuges.
 - Optimiertes Erfassungssystem der Eingabe. Der Mod reagiert nun deutlich schneller und auch deutlich zuverlässiger.
 - Wenn Gruppierungen angewählt / befehligt werden spricht nun wirklich 1 Trupp oder 1 Fahrzeug aus den selektierten Truppen/Fahrzeigen und keine Zufallsauswahl mehr. 
 
-**Audio Änderungen:**
+###Audio Änderungen:###
 - Mehr sprüche für Fahrzeuge (Selektrion / Positions Befehl) hinzugefügt.
