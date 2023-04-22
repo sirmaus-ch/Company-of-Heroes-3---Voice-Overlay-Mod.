@@ -2,9 +2,10 @@ Version: 0.0.7
 Release Datum: noch in arbeit...
 
 NEU:
+- Der Mod funktioniert nun für HD (1920x1080p) und auch 4K Auflösung (3840x2160p). 
 - Der Mod funktioniert nun auch wenn das Truppenmenu nach "oben rechts" verlegt wurde.
 - Der Mod erkennt nun wenn Fussvolk einheiten befohlen wird, "Objekte/Fahrzeuge" zu reparieren und gibt eine passende Audio meldung aus.
-
+- AFRIKA L13_40 und Afrika Motorrad hinzugefügt
 
 Fix / Ändernungen:
 - Fix Rückzug Spruch von Fussvolk kam zt fällschlicherweise beim retour gang eines Fahrzeuges.
