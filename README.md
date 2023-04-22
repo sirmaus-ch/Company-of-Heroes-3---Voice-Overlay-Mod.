@@ -31,4 +31,4 @@ Alternativ Download Link:https://www.mediafire.com/file/fleziaht8xj37ll/COH3_Aud
 **Was funktioniert nicht?**
 Da dieser Mod alles Grafisch erfasst, damit er weiss was im Spiel passiert, gibt es diverse Einschränkungen an Audio Möglichkeiten:
 zB: Es kann momentan nicht erkannt werden wenn ein eigener Trupp angegriffen wird. Es kann mom nicht erkannt werden wenn ein neues Gebiet erobert wurde oder verloren ging. und noch andere.
-Einige funktionien werden im laufe der Zeit noch folgen...einige werden vermutlich nicht möglich sein einzubauen. Solange Relic jedoch keinen deutschen Stimmen einbaut oder diese zum modden freigibt, werde ich an diesem "OverlayMod" weiter arbeiten.                           
+Einige funktionien werden im laufe der Zeit noch folgen...einige werden vermutlich nicht möglich sein einzubauen.
