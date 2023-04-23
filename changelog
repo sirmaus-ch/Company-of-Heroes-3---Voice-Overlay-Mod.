@@ -1,8 +1,9 @@
 Version: 0.0.8
 Release Datum: noch in Arbeit
 
-- Afrika Panzergrenadiere Audio funktionierte nicht.
-- Afrika Panzergrenadiere und Afrika Jägertrupp wird MG34 Upgrade nun erkannt.
+- Fix: Afrika Panzergrenadiere Audio funktionierte nicht.
+- "MG34 Upgrade" wird nun erkannt für: Afrika Panzergrenadiere und Afrika Jägertrupp
+- "Rauchgrante werfen" wird nun erkannt für: Stosstrupp, AFRIKA Guastatori und AFRIKA Sturmgrenadiere
 
 - Mehr Sprüche für Fussvolk hinzugefügt: Selektion, Befehl und Angriff
 - Mehr Sprüche für "Panzerschreck Upgrades"
