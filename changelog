@@ -2,6 +2,8 @@ Version: 0.0.8
 Release Datum: noch in Arbeit
 
 - Fix: Afrika Panzergrenadiere Audio funktionierte nicht.
+- Fix: Bersaglieri "Granaten wurf" hat nicht funktioniert wenn mehrere Bersaglieri angewählt sind.
+
 - "MG34 Upgrade" wird nun erkannt für: Afrika Panzergrenadiere und Afrika Jägertrupp
 - "Rauchgrante werfen" wird nun erkannt für: Jägertrupp, Stosstrupp, AFRIKA Guastatori und AFRIKA Sturmgrenadiere
 - "Kampfmittelräumpaket Upgrade" wird nun erkannt für Pioniere und Panzerpioniere 
