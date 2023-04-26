@@ -1,7 +1,7 @@
 # Company-of-Heroes-3---Voice-Overlay-Mod.
 German Voices / Deutsche Stimmen
 
-Dieser experimenteller Mod legt komplett neue Stimmen über Comapany of Hereoes 3. (Einige Fuktionen/Audio's fehlen noch, werden aber noch folgen). Ein Mod der hoffentlich nur kurzfristig exisitieren wird. In der Hoffnung das richtige deutsche Stimmen von Relic in Spiel integriert werden oder zum modden freigegeben werden. Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu lassen. 
+Dieser experimenteller Mod legt komplett neue Stimmen über Comapany of Hereoes 3. Ein Mod der hoffentlich nur kurzfristig exisitieren wird. In der Hoffnung das richtige deutsche Stimmen von Relic in Spiel integriert werden oder zum modden freigegeben werden. Bis dahinn versuche ich mit diesem Overlay Mod die Truppen deutsch sprechen zu lassen. 
 
 
 **Wie funktionierts? / Voraussetzungen:**
