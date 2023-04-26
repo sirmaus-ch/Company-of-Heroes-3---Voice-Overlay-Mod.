@@ -7,6 +7,7 @@ Release Datum: noch in Arbeit
 - "MG34 Upgrade" wird nun erkannt für: Afrika Panzergrenadiere und Afrika Jägertrupp
 - "Rauchgrante werfen" wird nun erkannt für: Jägertrupp, Stosstrupp, AFRIKA Guastatori und AFRIKA Sturmgrenadiere
 - "Kampfmittelräumpaket Upgrade" wird nun erkannt für Pioniere und Panzerpioniere 
+- Rückzug Spruch funktioniert nun auch mit Tastaturbefehl: "R". Erster test mit Tastatur Key abfangen.
 
 - Mehr Sprüche für Fussvolk hinzugefügt: Selektion, Befehl und Angriff
 - Mehr Sprüche für "Panzerschreck Upgrades"
