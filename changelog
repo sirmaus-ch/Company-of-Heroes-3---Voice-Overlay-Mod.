@@ -4,6 +4,8 @@ Release Datum: noch in arbeit...
 - Randomgenerator verbessert (es sollten nun weniger oft die selben Sprüche hintereinander abgespielt werden)
 - Granaten Wurf wird neu auch mit taste Y erkannt.
 - Escape Taste wird nun erkannt und kann Befehle abbrechen (dadurch sollten weniger falsche Audio Meldungen ausgelöst werden).
+- Fix Sound von rechter Maustaste wurde mehrmals abgespielt wenn man die Maustaste zu lange gedrückt hält.
+- Fix Mehrere "angewählte Stosstrups" haben nicht gesprochen.
 
 - mehr Sprüche Fussvolk [Selektion]
 - Mehr Sprüche Rückzug Befehl
