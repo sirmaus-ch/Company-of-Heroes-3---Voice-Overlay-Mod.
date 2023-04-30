@@ -6,6 +6,7 @@ Release Datum: noch in arbeit...
 - Escape Taste wird nun erkannt und kann Befehle abbrechen (dadurch sollten weniger falsche Audio Meldungen ausgelöst werden).
 - Fix Sound von rechter Maustaste wurde mehrmals abgespielt wenn man die Maustaste zu lange gedrückt hält.
 - Fix Mehrere "angewählte Stosstrups" haben nicht gesprochen.
+- Fix einzelnes Afrika MG hat nicht gesprochen.
 
 - mehr Sprüche Fussvolk [Selektion]
 - Mehr Sprüche Rückzug Befehl
