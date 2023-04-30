@@ -1,5 +1,5 @@
 Version: 0.0.9
-Release Datum: noch in arbeit...
+Release Datum: 30.04.2023
 
 - Randomgenerator verbessert (es sollten nun weniger oft die selben Sprüche hintereinander abgespielt werden)
 - Granaten Wurf wird neu auch mit taste Y erkannt.
