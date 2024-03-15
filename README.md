@@ -1,4 +1,16 @@
 # Company-of-Heroes-3---Voice-Overlay-Mod.
+
+
+
+
+
+!!!!!!!!!! ACHTUNG: DER MOD WIRD NICHT MEHR WEITERENTWICKELT.... DER MOD FUNKTIONIERT AUCH NICHT MEHR UNTER DEN AKTUELLEN NEUEN VERSIONEN.... !!!!!!!!!!
+
+
+
+
+
+
 German Voices / Deutsche Stimmen
 
 Dieser experimenteller Mod legt komplett neue Stimmen über Comapany of Hereoes 3. 
