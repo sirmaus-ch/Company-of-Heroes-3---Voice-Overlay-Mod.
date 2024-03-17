@@ -7,5 +7,6 @@ https://gee.myasustor.com/Coh3_German_Voice_Mod_020.zip
 - Der Mod funktioniert nur mit 4k Auflösung 3840x2160. Andere Auflösungen können nicht funktionieren und können auch nicht hinzugefügt werden. 
 - Die Mod.Exe muss während des Spiels im Hintergrund laufen.
 - Originale InGame Stimmen in den "Game Einstellungen" deaktivieren.
-- Zurzeit werden nur gewisse deutsche (Wermacht) Truppen unterstützt. Es wird aber laufend ergänzt in den nächsten Tagen
-- Sprüche sind die lediglich 4 Sprüche als Testzwecke zugewiesen, man kann sie aber selber nach belieben ergänzen (direkt in der mod.exe)
+- Die Lautstärke der deutschen Stimmen kann über den "Windows Lautstärke Mixer" eingestellt werden. 
+- Zurzeit werden nur gewisse deutsche (Wermacht) Truppen unterstützt. Es wird aber laufend ergänzt in den nächsten Tagen.
+- Sprüche sind die lediglich 4 Sprüche als Testzwecke zugewiesen, man kann sie aber selber nach belieben ergänzen (direkt in der mod.exe).
