@@ -1,0 +1,456 @@
+////////////////////
+//
+// INFO - WICHTIG - LESEN!
+//
+//Move Sprüche werden zufällig ausgelöst wenn truppen bewegt werden
+//Select Sprüche werden zufällig ausgelöst wenn die truppen markiert (angewählt ) wurden.
+//Achte darauf das der Start Index und End Index pro Spruch genau passsen. Damit keine Störgeräsche oder "leerpausen" in den sprüchen drinn sind. 
+//Bedenke beim hinzufügen von neuen Sprüchen: Die Start und Stop Index für Fussvolk wird immer in der AudioDatei für Fussvolk gesetzt und genutzt. Das heisst: du kannst NICHT Fahrzeug Indexe an Fussvolktruppen (oder umgekehrt) vergeben. 
+////////////////////
+
+
+
+Pioniertrupp-SELECT-START
+153200,154800,Ihr seit Pioniere
+Pioniertrupp-SELECT-END
+
+Pioniertrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Pioniertrupp-MOVE-END
+
+
+
+
+
+FallschirmPioniertrupp-SELECT-START
+153200,154800,Ihr seit Pioniere
+FallschirmPioniertrupp-SELECT-END
+
+FallschirmPioniertrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+FallschirmPioniertrupp-MOVE-END
+
+
+
+
+
+
+Grenadiertrupp-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Grenadiertrupp-SELECT-END
+
+Grenadiertrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Grenadiertrupp-MOVE-END
+
+
+
+
+
+Scharfschutze-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Scharfschutze-SELECT-END
+
+Scharfschutze-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Scharfschutze-MOVE-END
+
+
+
+
+
+Jagertrupp-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Jagertrupp-SELECT-END
+
+Jagertrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Jagertrupp-MOVE-END
+
+
+
+
+
+Panzergrenadiertrupp-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Panzergrenadiertrupp-SELECT-END
+
+Panzergrenadiertrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Panzergrenadiertrupp-MOVE-END
+
+
+
+
+
+Stosstrupp-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Stosstrupp-SELECT-END
+
+Stosstrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Stosstrupp-MOVE-END
+
+
+
+
+
+Fallschirmjagertrupp-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Fallschirmjagertrupp-SELECT-END
+
+Fallschirmjagertrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Fallschirmjagertrupp-MOVE-END
+
+
+
+
+
+Kustenreserventrupp-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Kustenreserventrupp-SELECT-END
+
+Kustenreserventrupp-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Kustenreserventrupp-MOVE-END
+
+
+
+
+
+Trupp_mit_MG42-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Trupp_mit_MG42-SELECT-END
+
+Trupp_mit_MG42-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Trupp_mit_MG42-MOVE-END
+
+
+
+
+
+Trupp_mit_Granatwerfer34-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Trupp_mit_Granatwerfer34-SELECT-END
+
+Trupp_mit_Granatwerfer34-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Trupp_mit_Granatwerfer34-MOVE-END
+
+
+
+
+
+Offizier_der_Artillerie-SELECT-START
+1210250,1212100,Grenadiere Zeit für den Kamp
+Offizier_der_Artillerie-SELECT-END
+
+Offizier_der_Artillerie-MOVE-START
+77300,77900,Verstanden
+78000,78500,Jawohl
+69800,70900,Wir haben befehle
+70900,71500,Jawohl
+Offizier_der_Artillerie-MOVE-END
+
+
+
+
+
+Kettenfahrzeug-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Kettenfahrzeug-SELECT-END
+
+Kettenfahrzeug-MOVE-START
+80700,82000,Blitzkrieg
+Kettenfahrzeug-MOVE-END
+
+
+
+
+
+
+Panzerspahwagen-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Panzerspahwagen-SELECT-END
+
+Panzerspahwagen-MOVE-START
+80700,82000,Blitzkrieg
+Panzerspahwagen-MOVE-END
+
+
+
+
+
+
+Schutzenwagen251-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Schutzenwagen251-SELECT-END
+
+Schutzenwagen251-MOVE-START
+80700,82000,Blitzkrieg
+Schutzenwagen251-MOVE-END
+
+
+
+
+
+
+Stummel_Halbkettenfahrzeug-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Stummel_Halbkettenfahrzeug-SELECT-END
+
+Stummel_Halbkettenfahrzeug-MOVE-START
+80700,82000,Blitzkrieg
+Stummel_Halbkettenfahrzeug-MOVE-END
+
+
+
+
+
+
+
+Sanitats_Halbkettenfahrzeug-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Sanitats_Halbkettenfahrzeug-SELECT-END
+
+Sanitats_Halbkettenfahrzeug-MOVE-START
+80700,82000,Blitzkrieg
+Sanitats_Halbkettenfahrzeug-MOVE-END
+
+
+
+
+
+
+25_Tonnen_Versorgungslaster-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+25_Tonnen_Versorgungslaster-SELECT-END
+
+25_Tonnen_Versorgungslaster-MOVE-START
+80700,82000,Blitzkrieg
+25_Tonnen_Versorgungslaster-MOVE-END
+
+
+
+
+
+
+8_RAD_Panzerfahrzeug-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+8_RAD_Panzerfahrzeug-SELECT-END
+
+8_RAD_Panzerfahrzeug-MOVE-START
+80700,82000,Blitzkrieg
+8_RAD_Panzerfahrzeug-MOVE-END
+
+
+
+
+
+
+
+Wirbelwind_Flakpanzer-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Wirbelwind_Flakpanzer-SELECT-END
+
+Wirbelwind_Flakpanzer-MOVE-START
+80700,82000,Blitzkrieg
+Wirbelwind_Flakpanzer-MOVE-END
+
+
+
+
+
+Jagdpanzer_Marder_III-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Jagdpanzer_Marder_III-SELECT-END
+
+Jagdpanzer_Marder_III-MOVE-START
+80700,82000,Blitzkrieg
+Jagdpanzer_Marder_III-MOVE-END
+
+
+
+
+
+
+Stug_III_D_Langrohr-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Stug_III_D_Langrohr-SELECT-END
+
+Stug_III_D_Langrohr-MOVE-START
+80700,82000,Blitzkrieg
+Stug_III_D_Langrohr-MOVE-END
+
+
+
+
+
+Stug_III_D_Kurzrohr-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Stug_III_D_Kurzrohr-SELECT-END
+
+Stug_III_D_Kurzrohr-MOVE-START
+80700,82000,Blitzkrieg
+Stug_III_D_Kurzrohr-MOVE-END
+
+
+
+
+
+Mittlerer_Panzerkampfwagen_IV-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Mittlerer_Panzerkampfwagen_IV-SELECT-END
+
+Mittlerer_Panzerkampfwagen_IV-MOVE-START
+80700,82000,Blitzkrieg
+Mittlerer_Panzerkampfwagen_IV-MOVE-END
+
+
+
+
+
+
+Mittlerer_Panzerbefehlswagen_IV-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Mittlerer_Panzerbefehlswagen_IV-SELECT-END
+
+Mittlerer_Panzerbefehlswagen_IV-MOVE-START
+80700,82000,Blitzkrieg
+Mittlerer_Panzerbefehlswagen_IV-MOVE-END
+
+
+
+
+
+
+Sturmpanzer_IV_Brummbar-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Sturmpanzer_IV_Brummbar-SELECT-END
+
+Sturmpanzer_IV_Brummbar-MOVE-START
+80700,82000,Blitzkrieg
+Sturmpanzer_IV_Brummbar-MOVE-END
+
+
+
+
+
+Schwerer_Panzer_Panther-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Schwerer_Panzer_Panther-SELECT-END
+
+Schwerer_Panzer_Panther-MOVE-START
+80700,82000,Blitzkrieg
+Schwerer_Panzer_Panther-MOVE-END
+
+
+
+
+
+Wespe_Selbstfahrartillerie-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Wespe_Selbstfahrartillerie-SELECT-END
+
+Wespe_Selbstfahrartillerie-MOVE-START
+80700,82000,Blitzkrieg
+Wespe_Selbstfahrartillerie-MOVE-END
+
+
+
+
+
+
+Schwerer_Tiger_Panzer-SELECT-START
+189647,192247,Es ist keine Herausforderung Infantrie zu töten
+Schwerer_Tiger_Panzer-SELECT-END
+
+Schwerer_Tiger_Panzer-MOVE-START
+80700,82000,Blitzkrieg
+Schwerer_Tiger_Panzer-MOVE-END
+
+
+
+
+MENU_MG_Upgrade-SELECT-START
+21000,22300,Wir bekommen bald ein MG
+MENU_MG_Upgrade-SELECT-END
+
+
+
+
+
+MENU_Halt_Stop-SELECT-START
+221899,223245,Alle Aktionen einstellen
+MENU_Halt_Stop-SELECT-END
+
+
+
+
+
+MENU_Ruckzug-SELECT-START
+4249800,4250835,Zurückfallen
+4251791,4252491,Rückzug
+4253769,4254769,zum sammelpunkt gehen
+MENU_Ruckzug-SELECT-END
+
+
+
+
+
+
+
+MENU_Panzershreck_Upgrade-SELECT-START
+623500,625127,ffa
+3026142,3027892,ff
+MENU_Panzershreck_Upgrade-SELECT-END
+
+
+
+
+MENU_Flammenwerfer_Upgrade-SELECT-START
+869773,871773,Bald werden wir Flammenwerfer haben
+MENU_Flammenwerfer_Upgrade-SELECT-END
+
+
+
+
+Meldung_Komandpunkt_erhalten-SELECT-START
+869773,871773,Bald werden wir Flammenwerfer haben
+Meldung_Komandpunkt_erhalten-SELECT-END
+
